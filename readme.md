@@ -9,3 +9,9 @@ Consigli del giorno:
 * Pensate prima in italiano.
 * Dividete in piccoli problemi la consegna.
 * Individuate gli elementi di cui avete bisogno per realizzare il programma
+
+
+1-creare un generatore di 5 numeri casuali
+2-creare un array che permetta l'inserimento degli elementi 
+3- stamparli in pagina
+4- rimuoverli dopo 30 secondi
